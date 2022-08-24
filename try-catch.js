@@ -1,5 +1,4 @@
 // try {
-
 //     console.log(666);
 // }
 // catch (error) {
@@ -13,9 +12,10 @@
 
 
 
-try {
 
+try {
     console.log('inside try');
+    console.log(student);
 }
 catch (error) {
     console.log('inside Catch');
